@@ -13,7 +13,7 @@ Project is created with:
 ## General info
 Markov algorithm is not the best approach for life events solutions, but still attention worthy.
 
-So pproach is to use decision-making algorithms, such as Markov decision processes, to model some random couple's decision-making process and suggest actions to improve their well-being.
+So approach is to use decision-making algorithms, such as Markov decision processes, to model some random couple's decision-making process and suggest actions to improve their well-being.
 
 The State space represents the different states the system can be in. In the case of the couple's problem, the State space could include different combinations of the couple's financial and health status, such as "financially stable and good health," "financially unstable and good health," "financially stable and poor health," and "financially unstable and poor health."
 
