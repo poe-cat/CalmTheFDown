@@ -11,7 +11,7 @@ Project is created with:
 * Apache Maven 3.8.6
 
 ## General info
-Markov algorithm is not the best approach for life events solutions, but still attention worthy.
+While Markov algorithms may not be considered the optimal approach for modeling and solving complex life events problems, they still remain a relevant and noteworthy tool in the field of decision-making under uncertainty.
 
 So approach is to use decision-making algorithms, such as Markov decision processes, to model some random couple's decision-making process and suggest actions to improve their well-being.
 
